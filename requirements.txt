@@ -1,3 +1,0 @@
-python==3.9
-tensorflow==2.11
-tfx==1.12.0
