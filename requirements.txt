@@ -1,2 +1,5 @@
+# tensorflow-macos
+# tensorflow-metal
 torch
 transformers
+gradio # Hugging Face Interface
