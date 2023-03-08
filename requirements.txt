@@ -1,5 +1,11 @@
 # tensorflow-macos
 # tensorflow-metal
+numpy==1.19.5
+ipywidgets==7.7.0
+wordcloud==1.8.1
+scikit-learn==0.24.2
+seaborn==0.11.2
+
 torch
 transformers
 gradio # Hugging Face Interface
